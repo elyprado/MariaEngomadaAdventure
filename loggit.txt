@@ -1,0 +1,2271 @@
+IuriMikaell
+"Assets/Cen\303\241rio/Vag\303\265esTrem/Vagao01.png"
+"Assets/Cen\303\241rio/Vag\303\265esTrem/Vagao02.png"
+"Assets/Cen\303\241rio/Vag\303\265esTrem/vagao01.zip"
+"Assets/Cen\303\241rio/Vag\303\265esTrem/vagao02.zip"
+Assets/Personagens/Passado/AnaZelma_Passado/AnaZelma_Passado.fbx
+Assets/Personagens/Passado/AnaZelma_Passado/AnaZelma_Passado.png
+Assets/Personagens/Passado/AnaZelma_Passado/AnaZelma_Passado.zip
+Assets/Personagens/Passado/Iuri_Passado/Iuri_Passado.fbx
+Assets/Personagens/Passado/Iuri_Passado/Iuri_Passado.png
+Assets/Personagens/Passado/Iuri_Passado/Iuri_Passado.zip
+Assets/Personagens/Presente/AnaZelma/AnaZelma.png
+Assets/Personagens/Presente/AnaZelma/AnaZelma.zip
+Assets/Personagens/Presente/AnaZelma/AnaZelma_Presente.fbx
+Assets/Personagens/Presente/Iuri/Iuri.png
+Assets/Personagens/Presente/Iuri/Iuri.zip
+Assets/Personagens/Presente/Iuri/Iuri_Presente.fbx
+
+IuriMikaell
+Assets/Sounds Effects/Casamento/musicaCasamento.mp3
+
+SamuelASilva
+"Assets/Cen\303\241rio/Ceduc/Ceduc.png"
+"Assets/Cen\303\241rio/Ceduc/base.obj"
+"Assets/Cen\303\241rio/Ceduc/shaded.png"
+"Assets/Cen\303\241rio/Ceduc/texture_diffuse.png"
+"Assets/Cen\303\241rio/Ceduc/texture_metallic.png"
+"Assets/Cen\303\241rio/Ceduc/texture_normal.png"
+"Assets/Cen\303\241rio/Ceduc/texture_pbr.png"
+"Assets/Cen\303\241rio/Ceduc/texture_roughness.png"
+Assets/Personagens/Presente/Chico circo/Chico circo.jpeg
+Assets/Personagens/Presente/Chico circo/Walking.fbx
+Assets/Personagens/Presente/Chico circo/base.obj
+Assets/Personagens/Presente/Chico circo/shaded.png
+Assets/Personagens/Presente/Chico circo/texture_diffuse.png
+Assets/Personagens/Presente/Chico circo/texture_metallic.png
+Assets/Personagens/Presente/Chico circo/texture_normal.png
+Assets/Personagens/Presente/Chico circo/texture_pbr.png
+Assets/Personagens/Presente/Chico circo/texture_roughness.png
+
+Ely Prado
+"Assets/Cen\303\241rio/Banheiro Camp\303\243o Lado de Fora/Tropical_Restrooms_1003003142_texture.fbx"
+"Assets/Cen\303\241rio/Banheiro Camp\303\243o Lado de Fora/Tropical_Restrooms_1003003142_texture.png"
+"Assets/Cen\303\241rio/Banheiro Camp\303\243o Lado de Fora/Tropical_Restrooms_1003003142_texture_metallic.png"
+"Assets/Cen\303\241rio/Banheiro Camp\303\243o Lado de Fora/Tropical_Restrooms_1003003142_texture_normal.png"
+"Assets/Cen\303\241rio/Banheiro Camp\303\243o Lado de Fora/Tropical_Restrooms_1003003142_texture_roughness.png"
+"Assets/Cen\303\241rio/Campao.meta"
+"Assets/Cen\303\241rio/Campao/MINI_football_.fbx"
+"Assets/Cen\303\241rio/Campao/MINI_football_.fbx.meta"
+"Assets/Cen\303\241rio/Fundo Faculdade/Evening_at_the_Courty_1003002901_texture.fbx"
+"Assets/Cen\303\241rio/Fundo Faculdade/Evening_at_the_Courty_1003002901_texture.png"
+"Assets/Cen\303\241rio/Fundo Faculdade/Evening_at_the_Courty_1003002901_texture_metallic.png"
+"Assets/Cen\303\241rio/Fundo Faculdade/Evening_at_the_Courty_1003002901_texture_normal.png"
+"Assets/Cen\303\241rio/Fundo Faculdade/Evening_at_the_Courty_1003002901_texture_roughness.png"
+Assets/Materials.meta
+Assets/Materials/Captura de tela de 2025-09-18 20-53-14.mat
+Assets/Materials/Captura de tela de 2025-09-18 20-53-14.mat.meta
+Assets/Scenes/SampleScene.unity
+
+Fiuza
+Assets/Personagens/Passado/alysson-antigo/base.obj
+Assets/Personagens/Passado/alysson-antigo/shaded.png
+Assets/Personagens/Passado/alysson-antigo/texture_diffuse.png
+Assets/Personagens/Passado/alysson-antigo/texture_metallic.png
+Assets/Personagens/Passado/alysson-antigo/texture_normal.png
+Assets/Personagens/Passado/alysson-antigo/texture_pbr.png
+Assets/Personagens/Passado/alysson-antigo/texture_roughness.png
+Assets/Personagens/Passado/alysson-antigo/walking.fbx
+Assets/Personagens/Passado/fiuza-antigo/base.obj
+Assets/Personagens/Passado/fiuza-antigo/shaded.png
+Assets/Personagens/Passado/fiuza-antigo/texture_diffuse.png
+Assets/Personagens/Passado/fiuza-antigo/texture_metallic.png
+Assets/Personagens/Passado/fiuza-antigo/texture_normal.png
+Assets/Personagens/Passado/fiuza-antigo/texture_pbr.png
+Assets/Personagens/Passado/fiuza-antigo/texture_roughness.png
+Assets/Personagens/Passado/fiuza-antigo/walking.fbx
+Assets/Personagens/Presente/alysson-atual/base.obj
+Assets/Personagens/Presente/alysson-atual/shaded.png
+Assets/Personagens/Presente/alysson-atual/texture_diffuse.png
+Assets/Personagens/Presente/alysson-atual/texture_metallic.png
+Assets/Personagens/Presente/alysson-atual/texture_normal.png
+Assets/Personagens/Presente/alysson-atual/texture_pbr.png
+Assets/Personagens/Presente/alysson-atual/texture_roughness.png
+Assets/Personagens/Presente/alysson-atual/walking.fbx
+Assets/Personagens/Presente/fiuza-atual/base.obj
+Assets/Personagens/Presente/fiuza-atual/shaded.png
+Assets/Personagens/Presente/fiuza-atual/texture_diffuse.png
+Assets/Personagens/Presente/fiuza-atual/texture_metallic.png
+Assets/Personagens/Presente/fiuza-atual/texture_normal.png
+Assets/Personagens/Presente/fiuza-atual/texture_pbr.png
+Assets/Personagens/Presente/fiuza-atual/texture_roughness.png
+Assets/Personagens/Presente/fiuza-atual/walking.fbx
+
+EduardaHeleena
+"Assets/Cen\303\241rio/Carro\303\247a com cavalo/base.obj"
+"Assets/Cen\303\241rio/Carro\303\247a com cavalo/shaded.png"
+"Assets/Cen\303\241rio/Carro\303\247a com cavalo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Carro\303\247a com cavalo/texture_metallic.png"
+"Assets/Cen\303\241rio/Carro\303\247a com cavalo/texture_normal.png"
+"Assets/Cen\303\241rio/Carro\303\247a com cavalo/texture_pbr.png"
+"Assets/Cen\303\241rio/Carro\303\247a com cavalo/texture_roughness.png"
+"Assets/Cen\303\241rio/biblioteca/base.obj"
+"Assets/Cen\303\241rio/biblioteca/shaded.png"
+"Assets/Cen\303\241rio/biblioteca/texture_diffuse.png"
+"Assets/Cen\303\241rio/biblioteca/texture_metallic.png"
+"Assets/Cen\303\241rio/biblioteca/texture_normal.png"
+"Assets/Cen\303\241rio/biblioteca/texture_pbr.png"
+"Assets/Cen\303\241rio/biblioteca/texture_roughness.png"
+Assets/Personagens/Passado/Eduarda/Eduarda Passado/base.obj
+Assets/Personagens/Passado/Eduarda/Eduarda Passado/shaded.png
+Assets/Personagens/Passado/Eduarda/Eduarda Passado/texture_diffuse.png
+Assets/Personagens/Passado/Eduarda/Eduarda Passado/texture_metallic.png
+Assets/Personagens/Passado/Eduarda/Eduarda Passado/texture_normal.png
+Assets/Personagens/Passado/Eduarda/Eduarda Passado/texture_pbr.png
+Assets/Personagens/Passado/Eduarda/Eduarda Passado/texture_roughness.png
+Assets/Sounds Effects/Musica fase 01/Musica Agitada Fase 1.mp3
+Assets/Sounds Effects/Musica fase 01/Musica agita fase 1 - missao.mp3
+
+Antônio Torres
+Assets/Scenes/tenda/base.obj
+Assets/Scenes/tenda/shaded.png
+Assets/Scenes/tenda/texture_diffuse.png
+Assets/Scenes/tenda/texture_metallic.png
+Assets/Scenes/tenda/texture_normal.png
+Assets/Scenes/tenda/texture_pbr.png
+Assets/Scenes/tenda/texture_roughness.png
+
+Antônio Torres
+Assets/Personagens/Presente/sapinho/base.obj
+Assets/Personagens/Presente/sapinho/shaded.png
+Assets/Personagens/Presente/sapinho/texture_diffuse.png
+Assets/Personagens/Presente/sapinho/texture_metallic.png
+Assets/Personagens/Presente/sapinho/texture_normal.png
+Assets/Personagens/Presente/sapinho/texture_pbr.png
+Assets/Personagens/Presente/sapinho/texture_roughness.png
+Assets/Personagens/Presente/sapinho/walk sapinho.fbx
+
+Antônio Torres
+Assets/Personagens/Presente/antonio/base.obj
+Assets/Personagens/Presente/antonio/shaded.png
+Assets/Personagens/Presente/antonio/texture_diffuse.png
+Assets/Personagens/Presente/antonio/texture_metallic.png
+Assets/Personagens/Presente/antonio/texture_normal.png
+Assets/Personagens/Presente/antonio/texture_pbr.png
+Assets/Personagens/Presente/antonio/texture_roughness.png
+
+Gabriel Paulino Alves
+"Assets/Cen\303\241rio/Loja Geraldo/base.obj"
+"Assets/Cen\303\241rio/Loja Geraldo/shaded.png"
+"Assets/Cen\303\241rio/Loja Geraldo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Loja Geraldo/texture_metallic.png"
+"Assets/Cen\303\241rio/Loja Geraldo/texture_normal.png"
+"Assets/Cen\303\241rio/Loja Geraldo/texture_pbr.png"
+"Assets/Cen\303\241rio/Loja Geraldo/texture_roughness.png"
+
+Gabriel Paulino Alves
+"Assets/Cen\303\241rio/teste.txt"
+
+Gabriel Paulino Alves
+"Assets/Cen\303\241rio/Loja Geraldo"
+
+joaaovinicius
+"Assets/Sounds Effects/M\303\272sica Introdut\303\263ria (no menu do Jogo)/Into the Legend.mp3"
+
+Karoline-Macedo
+"Assets/Sounds Effects/Musicas Fase 03/Trilha em miss\303\243o.mp3"
+Assets/Sounds Effects/Musicas Fase 03/Trilha normal.mp3
+
+Karoline-Macedo
+Assets/Personagens/Presente/Bijuliano/Biju.obj
+Assets/Personagens/Presente/Bijuliano/Biju@Jogging.fbx
+Assets/Personagens/Presente/Karoline/Karol.obj
+Assets/Personagens/Presente/Karoline/Karol@Jogging.fbx
+
+Karoline-Macedo
+Assets/Personagens/Passado/Bijuliano/base (1).obj
+Assets/Personagens/Passado/Bijuliano/base (1)@Start Walking.fbx
+Assets/Personagens/Passado/Karoline/karol_antiga.obj
+Assets/Personagens/Passado/Karoline/karol_antiga@Jogging.fbx
+
+Karoline-Macedo
+"Assets/Cen\303\241rio/Banheiro Camp\303\243o Lado de Fora/Banheiro p\303\272blico e \303\241rea verde.png"
+"Assets/Cen\303\241rio/Banheiro Camp\303\243o Lado de Fora/Links dos Cenarios.txt"
+"Assets/Cen\303\241rio/Fundo Faculdade/ChatGPT Cenario.png"
+"Assets/Cen\303\241rio/Fundo Faculdade/Links dos Cenarios.txt"
+
+brunocarmozini
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa1/base.obj"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa1/shaded.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa1/texture_diffuse.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa1/texture_metallic.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa1/texture_normal.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa1/texture_pbr.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa1/texture_roughness.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa2/base.obj"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa2/shaded.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa2/texture_diffuse.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa2/texture_metallic.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa2/texture_normal.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa2/texture_pbr.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa2/texture_roughness.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa3/base.obj"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa3/shaded.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa3/texture_diffuse.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa3/texture_metallic.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa3/texture_normal.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa3/texture_pbr.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa3/texture_roughness.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa4/base.obj"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa4/shaded.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa4/texture_diffuse.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa4/texture_metallic.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa4/texture_normal.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa4/texture_pbr.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa4/texture_roughness.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa5/base.obj"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa5/shaded.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa5/texture_diffuse.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa5/texture_metallic.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa5/texture_normal.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa5/texture_pbr.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa5/texture_roughness.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa6/base.obj"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa6/shaded.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa6/texture_diffuse.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa6/texture_metallic.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa6/texture_normal.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa6/texture_pbr.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa6/texture_roughness.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa7/base.obj"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa7/shaded.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa7/texture_diffuse.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa7/texture_metallic.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa7/texture_normal.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa7/texture_pbr.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa7/texture_roughness.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa8/base.obj"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa8/shaded.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa8/texture_diffuse.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa8/texture_metallic.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa8/texture_normal.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa8/texture_pbr.png"
+"Assets/Cen\303\241rio/Casas da rua Bacana/casa8/texture_roughness.png"
+
+brunocarmozini
+"Assets/Cen\303\241rio/TumuloChico/base.obj"
+"Assets/Cen\303\241rio/TumuloChico/shaded.png"
+"Assets/Cen\303\241rio/TumuloChico/texture_diffuse.png"
+"Assets/Cen\303\241rio/TumuloChico/texture_metallic.png"
+"Assets/Cen\303\241rio/TumuloChico/texture_normal.png"
+"Assets/Cen\303\241rio/TumuloChico/texture_pbr.png"
+"Assets/Cen\303\241rio/TumuloChico/texture_roughness.png"
+
+brunocarmozini
+Assets/Personagens/Passado/BrunoCarmozini/Walking90.fbx
+Assets/Personagens/Passado/BrunoCarmozini/base.obj
+Assets/Personagens/Passado/BrunoCarmozini/shaded.png
+Assets/Personagens/Passado/BrunoCarmozini/texture_diffuse.png
+Assets/Personagens/Passado/BrunoCarmozini/texture_metallic.png
+Assets/Personagens/Passado/BrunoCarmozini/texture_normal.png
+Assets/Personagens/Passado/BrunoCarmozini/texture_pbr.png
+Assets/Personagens/Passado/BrunoCarmozini/texture_roughness.png
+Assets/Personagens/Presente/BrunoCarmozini/ObjBruno3D.zip
+Assets/Personagens/Presente/BrunoCarmozini/WalkingBruno.fbx
+Assets/Personagens/Presente/BrunoCarmozini/base.obj
+Assets/Personagens/Presente/BrunoCarmozini/shaded.png
+Assets/Personagens/Presente/BrunoCarmozini/texture_diffuse.png
+Assets/Personagens/Presente/BrunoCarmozini/texture_metallic.png
+Assets/Personagens/Presente/BrunoCarmozini/texture_normal.png
+Assets/Personagens/Presente/BrunoCarmozini/texture_pbr.png
+Assets/Personagens/Presente/BrunoCarmozini/texture_roughness.png
+Assets/Personagens/Presente/Tonin/WalkingTonin.fbx
+Assets/Personagens/Presente/Tonin/base.obj
+Assets/Personagens/Presente/Tonin/shaded.png
+Assets/Personagens/Presente/Tonin/texture_diffuse.png
+Assets/Personagens/Presente/Tonin/texture_metallic.png
+Assets/Personagens/Presente/Tonin/texture_normal.png
+Assets/Personagens/Presente/Tonin/texture_pbr.png
+Assets/Personagens/Presente/Tonin/texture_roughness.png
+
+Caio-H3nr1que
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz-antigo/base.obj"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz-antigo/shaded.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz-antigo/texture_diffuse.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz-antigo/texture_metallic.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz-antigo/texture_normal.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz-antigo/texture_pbr.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz-antigo/texture_roughness.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz/base.obj"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz/shaded.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz/texture_diffuse.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz/texture_metallic.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz/texture_normal.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz/texture_pbr.png"
+"Assets/Cen\303\241rio/igreja-matriz/igreja-matriz/texture_roughness.png"
+
+WallaceNarcizo
+"Assets/quebra-cabe\303\247a/teste.obj"
+
+WallaceNarcizo
+"Assets/quebra-cabe\303\247a/Pai_formando.mtl"
+"Assets/quebra-cabe\303\247a/Pai_formando.obj"
+"Assets/quebra-cabe\303\247a/circo.mtl"
+"Assets/quebra-cabe\303\247a/circo.obj"
+"Assets/quebra-cabe\303\247a/figueiraobj.mtl"
+"Assets/quebra-cabe\303\247a/figueiraobj.obj"
+"Assets/quebra-cabe\303\247a/lapide.mtl"
+"Assets/quebra-cabe\303\247a/lapide.obj"
+"Assets/quebra-cabe\303\247a/maria_engomada.mtl"
+"Assets/quebra-cabe\303\247a/maria_engomada.obj"
+"Assets/quebra-cabe\303\247a/padre.mtl"
+"Assets/quebra-cabe\303\247a/padre.obj"
+"Assets/quebra-cabe\303\247a/tumulo.mtl"
+"Assets/quebra-cabe\303\247a/tumulo.obj"
+
+WallaceNarcizo
+"Assets/quebra-cabe\303\247a/teste.obj"
+
+WallaceNarcizo
+"Assets/quebra-cabe\303\247as"
+
+WallaceNarcizo
+"Assets/quebra-cabe\303\247as"
+
+Felipe
+"Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Bal\303\243o/Gemini_Generated_Image_lr23lr23lr23lr23.png"
+"Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Bal\303\243o/base.obj"
+"Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Bal\303\243o/shaded.png"
+"Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Bal\303\243o/texture_diffuse.png"
+"Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Bal\303\243o/texture_metallic.png"
+"Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Bal\303\243o/texture_normal.png"
+"Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Bal\303\243o/texture_pbr.png"
+"Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Bal\303\243o/texture_roughness.png"
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/Gemini_Generated_Image_q2dlr0q2dlr0q2dl.png
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/Standing Torch Idle 01.fbx
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/Unarmed Idle Looking Ver. 2.fbx
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/base.obj
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/shaded.png
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/texture_diffuse.png
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/texture_metallic.png
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/texture_normal.png
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/texture_pbr.png
+Assets/Personagens/Passado/VENDEDRO_BALAO_FELIPE/Felipe/Personagem/texture_roughness.png
+
+Ely Prado
+"Assets/Cen\303\241rio/Presente/peca1_tumulo.meta"
+"Assets/Cen\303\241rio/Presente/peca3_padre.meta"
+"Assets/Cen\303\241rio/Presente/peca3_padre/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/peca3_padre/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Presente/peca4_padre.meta"
+"Assets/Cen\303\241rio/Presente/peca4_padre/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/peca4_padre/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_roughness.png.meta"
+Assets/Personagens/Presente/Chico Fantasma.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/base.obj.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/shaded.png.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_diffuse.png.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_metallic.png.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_normal.png.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_pbr.png.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_roughness.png.meta
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma@Pointing Forward.fbx.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scripts/ThirdPersonCamera.cs
+Assets/Scripts/ThirdPersonCamera.cs.meta
+Assets/Scripts/ThirdPersonController.cs
+Assets/Scripts/ThirdPersonController.cs.meta
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca1_tumulo/.txt"
+
+Ely Prado
+"Assets/Cen\303\241rio/Base Santa.meta"
+"Assets/Cen\303\241rio/Base Santa/obj.mtl.meta"
+"Assets/Cen\303\241rio/Base Santa/tinker.obj.meta"
+"Assets/Cen\303\241rio/Carro\303\247a.meta"
+"Assets/Cen\303\241rio/Carro\303\247a/Gemini_Generated_Image_yko35dyko35dyko3.png.meta"
+"Assets/Cen\303\241rio/Carro\303\247a/base.obj.meta"
+"Assets/Cen\303\241rio/Carro\303\247a/shaded.png.meta"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Cavalo.meta"
+"Assets/Cen\303\241rio/Cavalo/Gemini_Generated_Image_hhj2ehhj2ehhj2eh.png.meta"
+"Assets/Cen\303\241rio/Cavalo/base.obj.meta"
+"Assets/Cen\303\241rio/Cavalo/shaded.png.meta"
+"Assets/Cen\303\241rio/Cavalo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Cavalo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Cavalo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Cavalo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Cavalo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Fase_02.meta"
+"Assets/Cen\303\241rio/Fase_02/Circo.meta"
+"Assets/Cen\303\241rio/Fase_02/Circo/base.obj.meta"
+"Assets/Cen\303\241rio/Fase_02/Circo/shaded.png.meta"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Fase_05.meta"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a.meta"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/base.obj.meta"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/shaded.png.meta"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/base.obj"
+"Assets/Cen\303\241rio/Passado/Circo/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/Circo/shaded.png"
+"Assets/Cen\303\241rio/Passado/Circo/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/Circo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/Circo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/Circo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/Circo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/Circo/texture_roughness.png"
+"Assets/Cen\303\241rio/Passado/Circo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/padre.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo@Strut Walking.fbx.meta"
+"Assets/Cen\303\241rio/Passado/poste antigo.meta"
+"Assets/Cen\303\241rio/Passado/poste antigo/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/poste antigo/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre.meta"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/tumulo antigo.meta"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Presente/balao-cachorro.meta"
+"Assets/Cen\303\241rio/Presente/balao-cachorro/98c8d4c7-da95-47f8-890b-da8f909f1dca.zip.meta"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio.meta"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Presente/forum.meta"
+"Assets/Cen\303\241rio/Presente/forum/29de5658-c901-41ac-a699-f3ca429618b1.zip.meta"
+"Assets/Cen\303\241rio/Presente/jardim.meta"
+"Assets/Cen\303\241rio/Presente/jardim/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/jardim/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/jardim/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/jardim/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/jardim/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/jardim/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/jardim/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 1 padre.meta"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 2 padre.meta"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Santa.meta"
+"Assets/Cen\303\241rio/Santa/base.obj.meta"
+"Assets/Cen\303\241rio/Santa/shaded.png.meta"
+"Assets/Cen\303\241rio/Santa/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Santa/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Santa/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Santa/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Santa/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/mausoleu1.meta"
+"Assets/Cen\303\241rio/mausoleu1/4dc72fe4-6890-4657-91e4-3f657e6d929b.zip.meta"
+"Assets/Cen\303\241rio/mausoleu1/mausoleu1.png.meta"
+"Assets/Cen\303\241rio/mausoleu2.meta"
+"Assets/Cen\303\241rio/mausoleu2/3d096b8a-82a0-4880-8ec3-a8bf362c0baa.zip.meta"
+"Assets/Cen\303\241rio/mausoleu2/mausoleu2.png.meta"
+Assets/Personagens/Passado/Caio.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado/base.obj.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado/shaded.png.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_diffuse.png.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_metallic.png.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_normal.png.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_pbr.png.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_roughness.png.meta
+Assets/Personagens/Passado/Caio/caio-1900-animado@Unarmed Walk Forward.fbx.meta
+Assets/Personagens/Passado/Caio/francisco-antigo.meta
+Assets/Personagens/Passado/Caio/francisco-antigo/base.obj.meta
+Assets/Personagens/Passado/Caio/francisco-antigo/shaded.png.meta
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_diffuse.png.meta
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_metallic.png.meta
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_normal.png.meta
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_pbr.png.meta
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_roughness.png.meta
+Assets/Personagens/Passado/Caio/francisco-antigo@Unarmed Walk Forward.fbx.meta
+Assets/Personagens/Passado/Carlos.meta
+Assets/Personagens/Passado/Carlos/Carlos_base@Standard Walk.fbx.meta
+Assets/Personagens/Passado/Carlos/base.obj.meta
+Assets/Personagens/Passado/Carlos/shaded.png.meta
+Assets/Personagens/Passado/Carlos/texture_diffuse.png.meta
+Assets/Personagens/Passado/Carlos/texture_metallic.png.meta
+Assets/Personagens/Passado/Carlos/texture_normal.png.meta
+Assets/Personagens/Passado/Carlos/texture_pbr.png.meta
+Assets/Personagens/Passado/Carlos/texture_roughness.png.meta
+Assets/Personagens/Passado/Eduarda.meta
+Assets/Personagens/Passado/Eduarda/marcelo_moraes.meta
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/base.obj.meta
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/shaded.png.meta
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_diffuse.png.meta
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_metallic.png.meta
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_normal.png.meta
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_pbr.png.meta
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_roughness.png.meta
+Assets/Personagens/Passado/Gustavo Reis.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/base.obj.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/shaded.png.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_diffuse.png.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_metallic.png.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_normal.png.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_pbr.png.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_roughness.png.meta
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado@Unarmed Walk Forward.fbx.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/base.obj.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/shaded.png.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_diffuse.png.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_metallic.png.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_normal.png.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_pbr.png.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_roughness.png.meta
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo@Unarmed Walk Forward.fbx.meta
+Assets/Personagens/Passado/JorgeCaetano1900.meta
+Assets/Personagens/Passado/JorgeCaetano1900/ChatGPT Image 21 de ago. de 2025, 19_27_50.png.meta
+Assets/Personagens/Passado/JorgeCaetano1900/Walking.fbx.meta
+Assets/Personagens/Passado/JorgeCaetano1900/a74156c6-9c03-41ee-ac49-a537f1a9ebaa.zip.meta
+Assets/Personagens/Passado/Rodrigo.meta
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/Gemini_Generated_Image_o0exbwo0exbwo0ex.png.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/base (3).fbx.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/base.obj.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/shaded.png.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_diffuse.png.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_metallic.png.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_normal.png.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_pbr.png.meta"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_roughness.png.meta"
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/Gemini_Generated_Image_yq1tsqyq1tsqyq1t.png.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/base.fbx.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/base.obj.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/shaded.png.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_diffuse.png.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_metallic.png.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_normal.png.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_pbr.png.meta
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_roughness.png.meta
+Assets/Personagens/Passado/Samuel.meta
+Assets/Personagens/Passado/Samuel/Walking.fbx.meta
+Assets/Personagens/Passado/Samuel/base.obj.meta
+Assets/Personagens/Passado/Samuel/shaded.png.meta
+Assets/Personagens/Passado/Samuel/texture_diffuse.png.meta
+Assets/Personagens/Passado/Samuel/texture_metallic.png.meta
+Assets/Personagens/Passado/Samuel/texture_normal.png.meta
+Assets/Personagens/Passado/Samuel/texture_pbr.png.meta
+Assets/Personagens/Passado/Samuel/texture_roughness.png.meta
+Assets/Personagens/Passado/Tiao.meta
+Assets/Personagens/Passado/Tiao/Walking.fbx.meta
+Assets/Personagens/Passado/Tiao/base.obj.meta
+Assets/Personagens/Passado/Tiao/shaded.png.meta
+Assets/Personagens/Passado/Tiao/texture_diffuse.png.meta
+Assets/Personagens/Passado/Tiao/texture_metallic.png.meta
+Assets/Personagens/Passado/Tiao/texture_normal.png.meta
+Assets/Personagens/Passado/Tiao/texture_pbr.png.meta
+Assets/Personagens/Passado/Tiao/texture_roughness.png.meta
+Assets/Personagens/Presente/Caio.meta
+Assets/Personagens/Presente/Caio/caio-animado.meta
+Assets/Personagens/Presente/Caio/caio-animado/base.obj.meta
+Assets/Personagens/Presente/Caio/caio-animado/shaded.png.meta
+Assets/Personagens/Presente/Caio/caio-animado/texture_diffuse.png.meta
+Assets/Personagens/Presente/Caio/caio-animado/texture_metallic.png.meta
+Assets/Personagens/Presente/Caio/caio-animado/texture_normal.png.meta
+Assets/Personagens/Presente/Caio/caio-animado/texture_pbr.png.meta
+Assets/Personagens/Presente/Caio/caio-animado/texture_roughness.png.meta
+Assets/Personagens/Presente/Caio/caio-animado@Unarmed Walk Forward.fbx.meta
+Assets/Personagens/Presente/Caio/francisco-animado.meta
+Assets/Personagens/Presente/Caio/francisco-animado/base.obj.meta
+Assets/Personagens/Presente/Caio/francisco-animado/shaded.png.meta
+Assets/Personagens/Presente/Caio/francisco-animado/texture_diffuse.png.meta
+Assets/Personagens/Presente/Caio/francisco-animado/texture_metallic.png.meta
+Assets/Personagens/Presente/Caio/francisco-animado/texture_normal.png.meta
+Assets/Personagens/Presente/Caio/francisco-animado/texture_pbr.png.meta
+Assets/Personagens/Presente/Caio/francisco-animado/texture_roughness.png.meta
+Assets/Personagens/Presente/Caio/francisco-animado@Unarmed Walk Forward.fbx.meta
+Assets/Personagens/Presente/Carlos/Carlos_base@Walking.fbx.meta
+Assets/Personagens/Presente/Eduarda.meta
+Assets/Personagens/Presente/Eduarda/eduarda.meta
+Assets/Personagens/Presente/Eduarda/eduarda/base (3).fbx.meta
+Assets/Personagens/Presente/Eduarda/eduarda/base.obj.meta
+Assets/Personagens/Presente/Eduarda/eduarda/shaded.png.meta
+Assets/Personagens/Presente/Eduarda/eduarda/texture_diffuse.png.meta
+Assets/Personagens/Presente/Eduarda/eduarda/texture_metallic.png.meta
+Assets/Personagens/Presente/Eduarda/eduarda/texture_normal.png.meta
+Assets/Personagens/Presente/Eduarda/eduarda/texture_pbr.png.meta
+Assets/Personagens/Presente/Eduarda/eduarda/texture_roughness.png.meta
+Assets/Personagens/Presente/Eduarda/marcelo_moraes.meta
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/base.obj.meta
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/shaded.png.meta
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_diffuse.png.meta
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_metallic.png.meta
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_normal.png.meta
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_pbr.png.meta
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_roughness.png.meta
+Assets/Personagens/Presente/Gabriel Alves.meta
+Assets/Personagens/Presente/Gabriel Alves/base.obj.meta
+Assets/Personagens/Presente/Gabriel Alves/eu@Defeated.fbx.meta
+Assets/Personagens/Presente/Gabriel Alves/shaded.png.meta
+Assets/Personagens/Presente/Gabriel Alves/texture_diffuse.png.meta
+Assets/Personagens/Presente/Gabriel Alves/texture_metallic.png.meta
+Assets/Personagens/Presente/Gabriel Alves/texture_normal.png.meta
+Assets/Personagens/Presente/Gabriel Alves/texture_pbr.png.meta
+Assets/Personagens/Presente/Gabriel Alves/texture_roughness.png.meta
+Assets/Personagens/Presente/Gustavo Reis.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/base.obj.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/shaded.png.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_diffuse.png.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_metallic.png.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_normal.png.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_pbr.png.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_roughness.png.meta
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado@Unarmed Walk Forward.fbx.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/base.obj.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/shaded.png.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_diffuse.png.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_metallic.png.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_normal.png.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_pbr.png.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_roughness.png.meta
+Assets/Personagens/Presente/Gustavo Reis/lima-animado@Unarmed Walk Forward.fbx.meta
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/AnimacaoHenriete.controller"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/AnimacaoHenriete.controller.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/Henriette_base@Catwalk Walking.fbx.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/Materials.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/Materials/shaded.mat"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/Materials/shaded.mat.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/Materials/texture_diffuse.mat"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/Materials/texture_diffuse.mat.meta"
+Assets/Personagens/Presente/JorgeCaetano.meta
+Assets/Personagens/Presente/JorgeCaetano/2eead2d2-21b4-4c4b-8cc6-c1cb89566323.zip.meta
+Assets/Personagens/Presente/JorgeCaetano/ChatGPT Image 12 de ago. de 2025, 21_18_42.png.meta
+Assets/Personagens/Presente/JorgeCaetano/Running.fbx.meta
+Assets/Personagens/Presente/JorgeCaetano/Walking.fbx.meta
+Assets/Personagens/Presente/Personagem_jogavel.meta
+Assets/Personagens/Presente/Personagem_jogavel/865d8fac-132b-4e66-a9f0-0d949f57d132.zip.meta
+Assets/Personagens/Presente/Personagem_jogavel/ChatGPT Image 18 de set. de 2025, 21_05_25.png.meta
+Assets/Personagens/Presente/Personagem_jogavel/Walking.fbx.meta
+Assets/Personagens/Presente/Rodrigo.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/Bboy Uprock Start.fbx.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/Gemini_Generated_Image_81lrzz81lrzz81lr.png.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/base.obj.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/shaded.png.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_diffuse.png.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_metallic.png.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_normal.png.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_pbr.png.meta
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_roughness.png.meta
+"Assets/Personagens/Presente/Ti\303\243o.meta"
+"Assets/Personagens/Presente/Ti\303\243o/Walking.fbx.meta"
+"Assets/Personagens/Presente/Ti\303\243o/base.obj.meta"
+"Assets/Personagens/Presente/Ti\303\243o/shaded.png.meta"
+"Assets/Personagens/Presente/Ti\303\243o/texture_diffuse.png.meta"
+"Assets/Personagens/Presente/Ti\303\243o/texture_metallic.png.meta"
+"Assets/Personagens/Presente/Ti\303\243o/texture_normal.png.meta"
+"Assets/Personagens/Presente/Ti\303\243o/texture_pbr.png.meta"
+"Assets/Personagens/Presente/Ti\303\243o/texture_roughness.png.meta"
+Assets/Personagens/Presente/Wallace/Joel da balada.meta
+Assets/Personagens/Presente/Wallace/Joel da balada/base.obj.meta
+Assets/Personagens/Presente/Wallace/Joel da balada/shaded.png.meta
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_diffuse.png.meta
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_metallic.png.meta
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_normal.png.meta
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_pbr.png.meta
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_roughness.png.meta
+Assets/Personagens/Presente/Zuza.meta
+Assets/Personagens/Presente/Zuza/7557e713-f82a-4217-b8e1-88a6a20f2baf.zip.meta
+Assets/Personagens/Presente/Zuza/ChatGPT Image 14 de ago. de 2025, 19_15_26.png.meta
+Assets/Personagens/Presente/Zuza/Walking.fbx.meta
+Assets/Personagens/Presente/barbino.meta
+Assets/Personagens/Presente/barbino/Materials.meta
+Assets/Personagens/Presente/barbino/Materials/shaded.mat
+Assets/Personagens/Presente/barbino/Materials/shaded.mat.meta
+Assets/Personagens/Presente/barbino/barbino@Sitting Laughing.fbx.meta
+Assets/Personagens/Presente/barbino/base.obj.meta
+Assets/Personagens/Presente/barbino/shaded.png.meta
+Assets/Personagens/Presente/barbino/texture_diffuse.png.meta
+Assets/Personagens/Presente/barbino/texture_metallic.png.meta
+Assets/Personagens/Presente/barbino/texture_normal.png.meta
+Assets/Personagens/Presente/barbino/texture_pbr.png.meta
+Assets/Personagens/Presente/barbino/texture_roughness.png.meta
+"Assets/Personagens/Presente/garota-jog\303\241vel.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/Materials.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/Materials/shaded.mat"
+"Assets/Personagens/Presente/garota-jog\303\241vel/Materials/shaded.mat.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/base.obj.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/base@Walking.fbx.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/shaded.png.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_diffuse.png.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_metallic.png.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_normal.png.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_pbr.png.meta"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_roughness.png.meta"
+Assets/Personagens/Presente/valdeir-lima.meta
+Assets/Personagens/Presente/valdeir-lima/base.obj.meta
+Assets/Personagens/Presente/valdeir-lima/shaded.png.meta
+Assets/Personagens/Presente/valdeir-lima/texture_diffuse.png.meta
+Assets/Personagens/Presente/valdeir-lima/texture_metallic.png.meta
+Assets/Personagens/Presente/valdeir-lima/texture_normal.png.meta
+Assets/Personagens/Presente/valdeir-lima/texture_pbr.png.meta
+Assets/Personagens/Presente/valdeir-lima/texture_roughness.png.meta
+Assets/Personagens/Presente/valdeir-lima/valdeir-lima@Laughing.fbx.meta
+Assets/Scenes/SampleScene.unity
+Assets/Sounds Effects.meta
+Assets/Sounds Effects/3-sound-menu-button-190036.mp3.meta
+Assets/Sounds Effects/Bone Yard Waltz - Loopable.ogg.meta
+Assets/Sounds Effects/Cleyton RX - Underwater.mp3.meta
+Assets/Sounds Effects/Cleyton RX - Underwater.wav.meta
+Assets/Sounds Effects/Forest_Ambience.mp3.meta
+Assets/Sounds Effects/GUI_Sound_Effects_by_Lokif.7z.meta
+Assets/Sounds Effects/Musica fase 05.meta
+Assets/Sounds Effects/Musica fase 05/Forest Whispers (1).mp3.meta
+Assets/Sounds Effects/Musica fase 05/Forest Whispers.mp3.meta
+Assets/Sounds Effects/Musica fase 05/The Forgotten Square (1).mp3.meta
+Assets/Sounds Effects/Musica fase 05/The Forgotten Square.mp3.meta
+Assets/Sounds Effects/SoundPack01.zip.meta
+Assets/Sounds Effects/The Essential Retro Video Game Sound Effects Collection [512 sounds].zip.meta
+Assets/Sounds Effects/arcade-ui-1-229498.mp3.meta
+Assets/Sounds Effects/arcade-ui-14-229514.mp3.meta
+Assets/Sounds Effects/arcade-ui-16-229516.mp3.meta
+Assets/Sounds Effects/bonus-points-190035.mp3.meta
+Assets/Sounds Effects/clock-timer-58830.mp3.meta
+Assets/Sounds Effects/clock-timer-reverb-58822.mp3.meta
+Assets/Sounds Effects/concrete-footsteps-1-6265.mp3.meta
+Assets/Sounds Effects/cute-level-up-1-189852.mp3.meta
+Assets/Sounds Effects/cute-level-up-2-189851.mp3.meta
+Assets/Sounds Effects/dogru-128492.mp3.meta
+Assets/Sounds Effects/falled-sound-effect-278635.mp3.meta
+Assets/Sounds Effects/female-horror-ghost-sound-5-vol-001-138135.mp3.meta
+Assets/Sounds Effects/footsteps-on-concrete-39202.mp3.meta
+Assets/Sounds Effects/game-over-401236.mp3.meta
+Assets/Sounds Effects/krank_sounds.7z.meta
+Assets/Sounds Effects/menu-button-pack-190040.mp3.meta
+Assets/Sounds Effects/merx-market-song-33936.mp3.meta
+Assets/Sounds Effects/negative_beeps-6008.mp3.meta
+Assets/Sounds Effects/new-notification-021-370045.mp3.meta
+Assets/Sounds Effects/new-notification-09-352705.mp3.meta
+Assets/Sounds Effects/new-notification-2-398648.mp3.meta
+Assets/Sounds Effects/notification-ping-372479.mp3.meta
+Assets/Sounds Effects/notification-sound-effect-372475.mp3.meta
+Assets/Sounds Effects/rpg_sound_pack.zip.meta
+Assets/Sounds Effects/samara-the-ring-389310.mp3.meta
+Assets/Sounds Effects/sand-walk-106366.mp3.meta
+Assets/Sounds Effects/sfx-14horrorsuspensemysteriousthriller-403158.mp3.meta
+Assets/Sounds Effects/sfx-15horrorsuspensemysteriousthriller-403159.mp3.meta
+Assets/Sounds Effects/sfx-18horrorsuspensemysteriousthriller-403162.mp3.meta
+Assets/Sounds Effects/shine-magic-sound-4-sounds-190258.mp3.meta
+Assets/Sounds Effects/spook-theremin-257588.mp3.meta
+Assets/Sounds Effects/wedding-song-247747.mp3.meta
+Assets/teste.meta
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca4_padre/base.obj"
+"Assets/Cen\303\241rio/Presente/peca4_padre/shaded.png"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/peca4_padre/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca4_padre/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca3_padre/base.obj"
+"Assets/Cen\303\241rio/Presente/peca3_padre/shaded.png"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/peca3_padre/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca3_padre/.txt"
+
+Bruno Aguiar
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/base.obj
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/shaded.png
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_diffuse.png
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_metallic.png
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_normal.png
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_pbr.png
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma/texture_roughness.png
+Assets/Personagens/Presente/Chico Fantasma/Chico Fantasma@Pointing Forward.fbx
+
+JorgeCaetano90
+JorgeCaetano90
+Assets/Personagens/Presente/Personagem_jogavel/865d8fac-132b-4e66-a9f0-0d949f57d132.zip
+Assets/Personagens/Presente/Personagem_jogavel/ChatGPT Image 18 de set. de 2025, 21_05_25.png
+Assets/Personagens/Presente/Personagem_jogavel/Walking.fbx
+
+Gabriel Paulino Alves
+Assets/Sounds Effects/Musica fase 05/Forest Whispers (1).mp3
+Assets/Sounds Effects/Musica fase 05/Forest Whispers.mp3
+Assets/Sounds Effects/Musica fase 05/The Forgotten Square (1).mp3
+Assets/Sounds Effects/Musica fase 05/The Forgotten Square.mp3
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca 2 padre/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca 2 padre/base.obj"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/shaded.png"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/peca 2 padre/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca 2 padre/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca 1 padre/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca 1 padre/base.obj"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/shaded.png"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/peca 1 padre/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Presente/peca 1 padre/.txt"
+
+EduardaHeleena
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/base.obj
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/shaded.png
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_diffuse.png
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_metallic.png
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_normal.png
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_pbr.png
+Assets/Personagens/Passado/Eduarda/marcelo_moraes/texture_roughness.png
+
+EduardaHeleena
+Assets/Personagens/Presente/Eduarda/eduarda/base (3).fbx
+Assets/Personagens/Presente/Eduarda/eduarda/base.obj
+Assets/Personagens/Presente/Eduarda/eduarda/shaded.png
+Assets/Personagens/Presente/Eduarda/eduarda/texture_diffuse.png
+Assets/Personagens/Presente/Eduarda/eduarda/texture_metallic.png
+Assets/Personagens/Presente/Eduarda/eduarda/texture_normal.png
+Assets/Personagens/Presente/Eduarda/eduarda/texture_pbr.png
+Assets/Personagens/Presente/Eduarda/eduarda/texture_roughness.png
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/base.obj
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/shaded.png
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_diffuse.png
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_metallic.png
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_normal.png
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_pbr.png
+Assets/Personagens/Presente/Eduarda/marcelo_moraes/texture_roughness.png
+
+RAssis22
+"Assets/Cen\303\241rio/Base Santa/obj.mtl"
+"Assets/Cen\303\241rio/Base Santa/tinker.obj"
+"Assets/Cen\303\241rio/Carro\303\247a/Gemini_Generated_Image_yko35dyko35dyko3.png"
+"Assets/Cen\303\241rio/Carro\303\247a/base.obj"
+"Assets/Cen\303\241rio/Carro\303\247a/shaded.png"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_diffuse.png"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_metallic.png"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_normal.png"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_pbr.png"
+"Assets/Cen\303\241rio/Carro\303\247a/texture_roughness.png"
+"Assets/Cen\303\241rio/Cavalo/Gemini_Generated_Image_hhj2ehhj2ehhj2eh.png"
+"Assets/Cen\303\241rio/Cavalo/base.obj"
+"Assets/Cen\303\241rio/Cavalo/shaded.png"
+"Assets/Cen\303\241rio/Cavalo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Cavalo/texture_metallic.png"
+"Assets/Cen\303\241rio/Cavalo/texture_normal.png"
+"Assets/Cen\303\241rio/Cavalo/texture_pbr.png"
+"Assets/Cen\303\241rio/Cavalo/texture_roughness.png"
+"Assets/Cen\303\241rio/Santa/base.obj"
+"Assets/Cen\303\241rio/Santa/shaded.png"
+"Assets/Cen\303\241rio/Santa/texture_diffuse.png"
+"Assets/Cen\303\241rio/Santa/texture_metallic.png"
+"Assets/Cen\303\241rio/Santa/texture_normal.png"
+"Assets/Cen\303\241rio/Santa/texture_pbr.png"
+"Assets/Cen\303\241rio/Santa/texture_roughness.png"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/Gemini_Generated_Image_o0exbwo0exbwo0ex.png"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/base (3).fbx"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/base.obj"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/shaded.png"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_diffuse.png"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_metallic.png"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_normal.png"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_pbr.png"
+"Assets/Personagens/Passado/Rodrigo/Palha\303\247o/texture_roughness.png"
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/Gemini_Generated_Image_yq1tsqyq1tsqyq1t.png
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/base.fbx
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/base.obj
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/shaded.png
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_diffuse.png
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_metallic.png
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_normal.png
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_pbr.png
+Assets/Personagens/Passado/Rodrigo/Persnagem Antigo/texture_roughness.png
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/Bboy Uprock Start.fbx
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/Gemini_Generated_Image_81lrzz81lrzz81lr.png
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/base.obj
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/shaded.png
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_diffuse.png
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_metallic.png
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_normal.png
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_pbr.png
+Assets/Personagens/Presente/Rodrigo/Carlos Meles - Atual/texture_roughness.png
+Assets/Sounds Effects/3-sound-menu-button-190036.mp3
+Assets/Sounds Effects/Bone Yard Waltz - Loopable.ogg
+Assets/Sounds Effects/Cleyton RX - Underwater.mp3
+Assets/Sounds Effects/Cleyton RX - Underwater.wav
+Assets/Sounds Effects/Forest_Ambience.mp3
+Assets/Sounds Effects/GUI_Sound_Effects_by_Lokif.7z
+Assets/Sounds Effects/SoundPack01.zip
+Assets/Sounds Effects/The Essential Retro Video Game Sound Effects Collection [512 sounds].zip
+Assets/Sounds Effects/arcade-ui-1-229498.mp3
+Assets/Sounds Effects/arcade-ui-14-229514.mp3
+Assets/Sounds Effects/arcade-ui-16-229516.mp3
+Assets/Sounds Effects/bonus-points-190035.mp3
+Assets/Sounds Effects/clock-timer-58830.mp3
+Assets/Sounds Effects/clock-timer-reverb-58822.mp3
+Assets/Sounds Effects/concrete-footsteps-1-6265.mp3
+Assets/Sounds Effects/cute-level-up-1-189852.mp3
+Assets/Sounds Effects/cute-level-up-2-189851.mp3
+Assets/Sounds Effects/dogru-128492.mp3
+Assets/Sounds Effects/falled-sound-effect-278635.mp3
+Assets/Sounds Effects/female-horror-ghost-sound-5-vol-001-138135.mp3
+Assets/Sounds Effects/footsteps-on-concrete-39202.mp3
+Assets/Sounds Effects/game-over-401236.mp3
+Assets/Sounds Effects/krank_sounds.7z
+Assets/Sounds Effects/menu-button-pack-190040.mp3
+Assets/Sounds Effects/merx-market-song-33936.mp3
+Assets/Sounds Effects/negative_beeps-6008.mp3
+Assets/Sounds Effects/new-notification-021-370045.mp3
+Assets/Sounds Effects/new-notification-09-352705.mp3
+Assets/Sounds Effects/new-notification-2-398648.mp3
+Assets/Sounds Effects/notification-ping-372479.mp3
+Assets/Sounds Effects/notification-sound-effect-372475.mp3
+Assets/Sounds Effects/rpg_sound_pack.zip
+Assets/Sounds Effects/samara-the-ring-389310.mp3
+Assets/Sounds Effects/sand-walk-106366.mp3
+Assets/Sounds Effects/sfx-14horrorsuspensemysteriousthriller-403158.mp3
+Assets/Sounds Effects/sfx-15horrorsuspensemysteriousthriller-403159.mp3
+Assets/Sounds Effects/sfx-18horrorsuspensemysteriousthriller-403162.mp3
+Assets/Sounds Effects/shine-magic-sound-4-sounds-190258.mp3
+Assets/Sounds Effects/spook-theremin-257588.mp3
+Assets/Sounds Effects/wedding-song-247747.mp3
+
+Gabriel Paulino Alves
+Assets/Personagens/Presente/valdeir-lima/base.obj
+Assets/Personagens/Presente/valdeir-lima/shaded.png
+Assets/Personagens/Presente/valdeir-lima/texture_diffuse.png
+Assets/Personagens/Presente/valdeir-lima/texture_metallic.png
+Assets/Personagens/Presente/valdeir-lima/texture_normal.png
+Assets/Personagens/Presente/valdeir-lima/texture_pbr.png
+Assets/Personagens/Presente/valdeir-lima/texture_roughness.png
+Assets/Personagens/Presente/valdeir-lima/valdeir-lima@Laughing.fbx
+
+Gabriel Paulino Alves
+Assets/Personagens/Presente/barbino/barbino@Sitting Laughing.fbx
+Assets/Personagens/Presente/barbino/base.obj
+Assets/Personagens/Presente/barbino/shaded.png
+Assets/Personagens/Presente/barbino/texture_diffuse.png
+Assets/Personagens/Presente/barbino/texture_metallic.png
+Assets/Personagens/Presente/barbino/texture_normal.png
+Assets/Personagens/Presente/barbino/texture_pbr.png
+Assets/Personagens/Presente/barbino/texture_roughness.png
+
+Gabriel Paulino Alves
+Assets/Personagens/Presente/Gabriel Alves/base.obj
+Assets/Personagens/Presente/Gabriel Alves/eu@Defeated.fbx
+Assets/Personagens/Presente/Gabriel Alves/shaded.png
+Assets/Personagens/Presente/Gabriel Alves/texture_diffuse.png
+Assets/Personagens/Presente/Gabriel Alves/texture_metallic.png
+Assets/Personagens/Presente/Gabriel Alves/texture_normal.png
+Assets/Personagens/Presente/Gabriel Alves/texture_pbr.png
+Assets/Personagens/Presente/Gabriel Alves/texture_roughness.png
+
+WallaceNarcizo
+"Assets/Cen\303\241rio/Passado/poste antigo/base.obj"
+"Assets/Cen\303\241rio/Passado/poste antigo/shaded.png"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/poste antigo/texture_roughness.png"
+
+WallaceNarcizo
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/base.obj"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/shaded.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/carro avia\303\247ao antigo/texture_roughness.png"
+
+SamuelASilva
+Assets/Personagens/Passado/Samuel/Walking.fbx
+Assets/Personagens/Passado/Samuel/base.obj
+Assets/Personagens/Passado/Samuel/shaded.png
+Assets/Personagens/Passado/Samuel/texture_diffuse.png
+Assets/Personagens/Passado/Samuel/texture_metallic.png
+Assets/Personagens/Passado/Samuel/texture_normal.png
+Assets/Personagens/Passado/Samuel/texture_pbr.png
+Assets/Personagens/Passado/Samuel/texture_roughness.png
+Assets/Personagens/Passado/Tiao/Walking.fbx
+Assets/Personagens/Passado/Tiao/base.obj
+Assets/Personagens/Passado/Tiao/shaded.png
+Assets/Personagens/Passado/Tiao/texture_diffuse.png
+Assets/Personagens/Passado/Tiao/texture_metallic.png
+Assets/Personagens/Passado/Tiao/texture_normal.png
+Assets/Personagens/Passado/Tiao/texture_pbr.png
+Assets/Personagens/Passado/Tiao/texture_roughness.png
+"Assets/Personagens/Presente/Ti\303\243o/Walking.fbx"
+"Assets/Personagens/Presente/Ti\303\243o/base.obj"
+"Assets/Personagens/Presente/Ti\303\243o/shaded.png"
+"Assets/Personagens/Presente/Ti\303\243o/texture_diffuse.png"
+"Assets/Personagens/Presente/Ti\303\243o/texture_metallic.png"
+"Assets/Personagens/Presente/Ti\303\243o/texture_normal.png"
+"Assets/Personagens/Presente/Ti\303\243o/texture_pbr.png"
+"Assets/Personagens/Presente/Ti\303\243o/texture_roughness.png"
+
+Ely Prado
+Ely Prado
+Assets/Personagens/Passado/Ely.meta
+Assets/Personagens/Passado/Ely/elyold.obj.meta
+Assets/Personagens/Passado/Ely/shaded.png.meta
+Assets/Personagens/Passado/Ely/texture_diffuse.png.meta
+Assets/Personagens/Passado/Ely/texture_metallic.png.meta
+Assets/Personagens/Passado/Ely/texture_normal.png.meta
+Assets/Personagens/Passado/Ely/texture_pbr.png.meta
+Assets/Personagens/Passado/Ely/texture_roughness.png.meta
+Assets/Personagens/Passado/MariaEngomada/MariaEngomada.zip
+Assets/Personagens/Passado/MariaEngomada/MariaEngomada.zip.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scripts.meta
+Assets/Scripts/ControleJogador.cs
+Assets/Scripts/ControleJogador.cs.meta
+Assets/Texturas.meta
+Assets/Texturas/Grass_01.png
+Assets/Texturas/Grass_01.png.meta
+Assets/Texturas/Grass_01_Nrm.png
+Assets/Texturas/Grass_01_Nrm.png.meta
+Assets/Texturas/Grass_02.png
+Assets/Texturas/Grass_02.png.meta
+Assets/Texturas/Grass_02_Nrm.png
+Assets/Texturas/Grass_02_Nrm.png.meta
+Assets/Texturas/Grass_03.png
+Assets/Texturas/Grass_03.png.meta
+Assets/Texturas/Grass_03_Nrm.png
+Assets/Texturas/Grass_03_Nrm.png.meta
+Assets/Texturas/Grass_04.png
+Assets/Texturas/Grass_04.png.meta
+Assets/Texturas/Grass_04_Nrm.png
+Assets/Texturas/Grass_04_Nrm.png.meta
+Assets/Texturas/Materials.meta
+Assets/Texturas/Materials/Grass_01.mat
+Assets/Texturas/Materials/Grass_01.mat.meta
+Assets/Texturas/Materials/Grass_02.mat
+Assets/Texturas/Materials/Grass_02.mat.meta
+Assets/Texturas/Materials/Grass_03.mat
+Assets/Texturas/Materials/Grass_03.mat.meta
+ProjectSettings/SceneTemplateSettings.json
+
+Felipe
+Felipe
+"Assets/Cen\303\241rio/mausoleu1/4dc72fe4-6890-4657-91e4-3f657e6d929b.zip"
+"Assets/Cen\303\241rio/mausoleu1/mausoleu1.png"
+"Assets/Cen\303\241rio/mausoleu2/3d096b8a-82a0-4880-8ec3-a8bf362c0baa.zip"
+"Assets/Cen\303\241rio/mausoleu2/mausoleu2.png"
+
+joaaovinicius
+"Assets/Cen\303\241rio/Fase_02/Circo/base.obj"
+"Assets/Cen\303\241rio/Fase_02/Circo/shaded.png"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_metallic.png"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_normal.png"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_pbr.png"
+"Assets/Cen\303\241rio/Fase_02/Circo/texture_roughness.png"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/base.obj"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/shaded.png"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_diffuse.png"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_metallic.png"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_normal.png"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_pbr.png"
+"Assets/Cen\303\241rio/Fase_05/Banco_Pra\303\247a/texture_roughness.png"
+
+joaaovinicius
+Assets/Cenarios/Fase_02/Circo/base.obj
+Assets/Cenarios/Fase_02/Circo/shaded.png
+Assets/Cenarios/Fase_02/Circo/texture_diffuse.png
+Assets/Cenarios/Fase_02/Circo/texture_metallic.png
+Assets/Cenarios/Fase_02/Circo/texture_normal.png
+Assets/Cenarios/Fase_02/Circo/texture_pbr.png
+Assets/Cenarios/Fase_02/Circo/texture_roughness.png
+"Assets/Cenarios/Fase_05/Banco_Pra\303\247a/base.obj"
+"Assets/Cenarios/Fase_05/Banco_Pra\303\247a/shaded.png"
+"Assets/Cenarios/Fase_05/Banco_Pra\303\247a/texture_diffuse.png"
+"Assets/Cenarios/Fase_05/Banco_Pra\303\247a/texture_metallic.png"
+"Assets/Cenarios/Fase_05/Banco_Pra\303\247a/texture_normal.png"
+"Assets/Cenarios/Fase_05/Banco_Pra\303\247a/texture_pbr.png"
+"Assets/Cenarios/Fase_05/Banco_Pra\303\247a/texture_roughness.png"
+
+Carlos Neto
+Carlos Neto
+"Assets/Personagens/Presente/garota-jog\303\241vel/base.obj"
+"Assets/Personagens/Presente/garota-jog\303\241vel/base@Walking.fbx"
+"Assets/Personagens/Presente/garota-jog\303\241vel/shaded.png"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_diffuse.png"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_metallic.png"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_normal.png"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_pbr.png"
+"Assets/Personagens/Presente/garota-jog\303\241vel/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/base.obj"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/shaded.png"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/quebra_cabeca_padre"
+
+WallaceNarcizo
+Assets/Personagens/Presente/Wallace/Joel da balada/base.obj
+Assets/Personagens/Presente/Wallace/Joel da balada/shaded.png
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_diffuse.png
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_metallic.png
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_normal.png
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_pbr.png
+Assets/Personagens/Presente/Wallace/Joel da balada/texture_roughness.png
+
+Caio-H3nr1que
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/base.obj"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/shaded.png"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo/texture_roughness.png"
+"Assets/Cen\303\241rio/Passado/padre/padre antigo@Strut Walking.fbx"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/base.obj"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/shaded.png"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/tumulo antigo/texture_roughness.png"
+
+Caio-H3nr1que
+JorgeCaetano90
+"Assets/Cen\303\241rio/Presente/balao-cachorro/98c8d4c7-da95-47f8-890b-da8f909f1dca.zip"
+"Assets/Cen\303\241rio/Presente/forum/29de5658-c901-41ac-a699-f3ca429618b1.zip"
+Assets/Personagens/Passado/JorgeCaetano1900/ChatGPT Image 21 de ago. de 2025, 19_27_50.png
+Assets/Personagens/Passado/JorgeCaetano1900/Walking.fbx
+Assets/Personagens/Passado/JorgeCaetano1900/a74156c6-9c03-41ee-ac49-a537f1a9ebaa.zip
+Assets/Personagens/Presente/JorgeCaetano/2eead2d2-21b4-4c4b-8cc6-c1cb89566323.zip
+Assets/Personagens/Presente/JorgeCaetano/ChatGPT Image 12 de ago. de 2025, 21_18_42.png
+Assets/Personagens/Presente/JorgeCaetano/Running.fbx
+Assets/Personagens/Presente/JorgeCaetano/Walking.fbx
+Assets/Personagens/Presente/Zuza/7557e713-f82a-4217-b8e1-88a6a20f2baf.zip
+Assets/Personagens/Presente/Zuza/ChatGPT Image 14 de ago. de 2025, 19_15_26.png
+Assets/Personagens/Presente/Zuza/Walking.fbx
+
+Caio-H3nr1que
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/base.obj"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/shaded.png"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/casa ao lado do cartorio/texture_roughness.png"
+
+Caio-H3nr1que
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/base.obj
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/shaded.png
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_diffuse.png
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_metallic.png
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_normal.png
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_pbr.png
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado/texture_roughness.png
+Assets/Personagens/Passado/Gustavo Reis/gustavo-1900-animado@Unarmed Walk Forward.fbx
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/base.obj
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/shaded.png
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_diffuse.png
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_metallic.png
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_normal.png
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_pbr.png
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo/texture_roughness.png
+Assets/Personagens/Passado/Gustavo Reis/lima-antigo@Unarmed Walk Forward.fbx
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/base.obj
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/shaded.png
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_diffuse.png
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_metallic.png
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_normal.png
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_pbr.png
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado/texture_roughness.png
+Assets/Personagens/Presente/Gustavo Reis/gustavo-animado@Unarmed Walk Forward.fbx
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/base.obj
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/shaded.png
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_diffuse.png
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_metallic.png
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_normal.png
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_pbr.png
+Assets/Personagens/Presente/Gustavo Reis/lima-animado/texture_roughness.png
+Assets/Personagens/Presente/Gustavo Reis/lima-animado@Unarmed Walk Forward.fbx
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/base.obj"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/shaded.png"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Jaula/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_pbr.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_normal.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_metallic.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_diffuse.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/shaded.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/base.obj"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/base.obj"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/shaded.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/1.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/.txt"
+
+joao12pedro
+joao12pedro
+Caio-H3nr1que
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/1.txt"
+
+Caio-H3nr1que
+Assets/Personagens/Passado/Caio/caio-1900-animado/base.obj
+Assets/Personagens/Passado/Caio/caio-1900-animado/shaded.png
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_diffuse.png
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_metallic.png
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_normal.png
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_pbr.png
+Assets/Personagens/Passado/Caio/caio-1900-animado/texture_roughness.png
+Assets/Personagens/Passado/Caio/caio-1900-animado@Unarmed Walk Forward.fbx
+Assets/Personagens/Passado/Caio/francisco-antigo/base.obj
+Assets/Personagens/Passado/Caio/francisco-antigo/shaded.png
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_diffuse.png
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_metallic.png
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_normal.png
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_pbr.png
+Assets/Personagens/Passado/Caio/francisco-antigo/texture_roughness.png
+Assets/Personagens/Passado/Caio/francisco-antigo@Unarmed Walk Forward.fbx
+Assets/Personagens/Presente/Caio/caio-animado/base.obj
+Assets/Personagens/Presente/Caio/caio-animado/shaded.png
+Assets/Personagens/Presente/Caio/caio-animado/texture_diffuse.png
+Assets/Personagens/Presente/Caio/caio-animado/texture_metallic.png
+Assets/Personagens/Presente/Caio/caio-animado/texture_normal.png
+Assets/Personagens/Presente/Caio/caio-animado/texture_pbr.png
+Assets/Personagens/Presente/Caio/caio-animado/texture_roughness.png
+Assets/Personagens/Presente/Caio/caio-animado@Unarmed Walk Forward.fbx
+Assets/Personagens/Presente/Caio/francisco-animado/base.obj
+Assets/Personagens/Presente/Caio/francisco-animado/shaded.png
+Assets/Personagens/Presente/Caio/francisco-animado/texture_diffuse.png
+Assets/Personagens/Presente/Caio/francisco-animado/texture_metallic.png
+Assets/Personagens/Presente/Caio/francisco-animado/texture_normal.png
+Assets/Personagens/Presente/Caio/francisco-animado/texture_pbr.png
+Assets/Personagens/Presente/Caio/francisco-animado/texture_roughness.png
+Assets/Personagens/Presente/Caio/francisco-animado@Unarmed Walk Forward.fbx
+
+joao12pedro
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o/.txt"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/base.obj"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/shaded.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_roughness.png"
+
+joao12pedro
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/base.obj"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/shaded.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/texture_roughness.png"
+
+joao12pedro
+"Assets/Cen\303\241rio/Passado/Circo/Le\303\243o na Jaula/.txt"
+
+Cézar Novaes
+"Assets/Cen\303\241rio/ipe-branco.meta"
+"Assets/Cen\303\241rio/ipe-branco/Materials.meta"
+"Assets/Cen\303\241rio/ipe-branco/Materials/shaded.mat"
+"Assets/Cen\303\241rio/ipe-branco/Materials/shaded.mat.meta"
+"Assets/Cen\303\241rio/ipe-branco/base.obj"
+"Assets/Cen\303\241rio/ipe-branco/base.obj.meta"
+"Assets/Cen\303\241rio/ipe-branco/shaded.png"
+"Assets/Cen\303\241rio/ipe-branco/shaded.png.meta"
+"Assets/Cen\303\241rio/ipe-branco/texture_diffuse.png"
+"Assets/Cen\303\241rio/ipe-branco/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/ipe-branco/texture_metallic.png"
+"Assets/Cen\303\241rio/ipe-branco/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/ipe-branco/texture_normal.png"
+"Assets/Cen\303\241rio/ipe-branco/texture_normal.png.meta"
+"Assets/Cen\303\241rio/ipe-branco/texture_pbr.png"
+"Assets/Cen\303\241rio/ipe-branco/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/ipe-branco/texture_roughness.png"
+"Assets/Cen\303\241rio/ipe-branco/texture_roughness.png.meta"
+Assets/Scenes/SampleScene.unity
+
+Cézar Novaes
+"Assets/Cen\303\241rio/New Material.mat"
+"Assets/Cen\303\241rio/New Material.mat.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/CarController.cs"
+"Assets/Cen\303\241rio/Passado/carro-antigo/CarController.cs.meta"
+Assets/New Terrain.asset
+Assets/New Terrain.asset.meta
+Assets/Personagens/Passado/wallace.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/EU 3D PASSADO.png.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/base.obj.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/shaded.png.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_diffuse.png.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_metallic.png.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_normal.png.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_pbr.png.meta
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_roughness.png.meta
+Assets/Personagens/Presente/Wallace.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/EU 3D.png.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/base.obj.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/shaded.png.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_diffuse.png.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_metallic.png.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_normal.png.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_pbr.png.meta
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_roughness.png.meta
+Assets/Scenes/SampleScene.unity
+
+Carlos Neto
+"Assets/Cen\303\241rio/Passado/circo/base.obj"
+"Assets/Cen\303\241rio/Passado/circo/shaded.png"
+"Assets/Cen\303\241rio/Passado/circo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/circo/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/circo/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/circo/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/circo/texture_roughness.png"
+"Assets/Cen\303\241rio/Presente/jardim/base.obj"
+"Assets/Cen\303\241rio/Presente/jardim/shaded.png"
+"Assets/Cen\303\241rio/Presente/jardim/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/jardim/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/jardim/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/jardim/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/jardim/texture_roughness.png"
+Assets/Personagens/Passado/Carlos/Carlos_base@Standard Walk.fbx
+Assets/Personagens/Passado/Carlos/base.obj
+Assets/Personagens/Passado/Carlos/shaded.png
+Assets/Personagens/Passado/Carlos/texture_diffuse.png
+Assets/Personagens/Passado/Carlos/texture_metallic.png
+Assets/Personagens/Passado/Carlos/texture_normal.png
+Assets/Personagens/Passado/Carlos/texture_pbr.png
+Assets/Personagens/Passado/Carlos/texture_roughness.png
+Assets/Personagens/Presente/Carlos/Carlos_base@Walking.fbx
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/Henriette_base@Catwalk Walking.fbx"
+
+Cézar Novaes
+"Assets/Cen\303\241rio/Presente/Balao Pixar.meta"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar.meta"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_roughness.png.meta"
+
+WallaceNarcizo
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/EU 3D PASSADO.png
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/base.obj
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/shaded.png
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_diffuse.png
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_metallic.png
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_normal.png
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_pbr.png
+Assets/Personagens/Passado/wallace/EU 3D PASSADO/texture_roughness.png
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/EU 3D.png
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/base.obj
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/shaded.png
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_diffuse.png
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_metallic.png
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_normal.png
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_pbr.png
+Assets/Personagens/Presente/Wallace/EU 3D PRESENTE/texture_roughness.png
+
+Cézar Novaes
+Bruno Aguiar
+"Assets/Cen\303\241rio/Presente/Balao Pixar/base.obj"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/shaded.png"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/Balao Pixar/texture_roughness.png"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/base.obj"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/shaded.png"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/Elefante Pixar/texture_roughness.png"
+
+Cézar Novaes
+"Assets/Cen\303\241rio.meta"
+"Assets/Cen\303\241rio/Passado.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/Materials.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/Materials/shaded.mat"
+"Assets/Cen\303\241rio/Passado/carro-antigo/Materials/shaded.mat.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/Materials.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/Materials/shaded.mat"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/Materials/shaded.mat.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/base.obj.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/shaded.png.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Presente.meta"
+"Assets/Cen\303\241rio/Presente/balao-onca.meta"
+"Assets/Cen\303\241rio/Presente/balao-onca/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/balao-onca/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/Presente/girocoptero.meta"
+"Assets/Cen\303\241rio/Presente/girocoptero/base.obj.meta"
+"Assets/Cen\303\241rio/Presente/girocoptero/shaded.png.meta"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_normal.png.meta"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/Materials.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/Materials/shaded.mat"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/Materials/shaded.mat.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/base.obj.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/shaded.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_normal.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/Materials.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/Materials/shaded.mat"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/Materials/shaded.mat.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/base.obj.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/shaded.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_normal.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/Materials.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/Materials/shaded.mat"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/Materials/shaded.mat.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/base.obj.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/shaded.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_normal.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/Materials.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/Materials/shaded.mat"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/Materials/shaded.mat.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/base.obj.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/shaded.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_normal.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_roughness.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/Materials.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/Materials/shaded.mat"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/Materials/shaded.mat.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/base.obj.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/shaded.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_diffuse.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_metallic.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_normal.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_pbr.png.meta"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_roughness.png.meta"
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO.meta
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/base.obj.meta
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/shaded.png.meta
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_diffuse.png.meta
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_metallic.png.meta
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_normal.png.meta
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_pbr.png.meta
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_roughness.png.meta
+"Assets/Personagens/Passado/C\303\251zar.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900.fbx.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/base.obj.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/shaded.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_diffuse.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_metallic.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_normal.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_pbr.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_roughness.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900.fbx.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/base.obj.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/shaded.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_diffuse.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_metallic.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_normal.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_pbr.png.meta"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_roughness.png.meta"
+Assets/Personagens/Passado/Ely.meta
+Assets/Personagens/Passado/Ely/elyold.obj.meta
+Assets/Personagens/Passado/Ely/shaded.png.meta
+Assets/Personagens/Passado/Ely/texture_diffuse.png.meta
+Assets/Personagens/Passado/Ely/texture_metallic.png.meta
+Assets/Personagens/Passado/Ely/texture_normal.png.meta
+Assets/Personagens/Passado/Ely/texture_pbr.png.meta
+Assets/Personagens/Passado/Ely/texture_roughness.png.meta
+Assets/Personagens/Passado/Joao_Pedro.meta
+"Assets/Personagens/Passado/Joao_Pedro/Jo\303\243o Pedro (Old).zip.meta"
+Assets/Personagens/Passado/Joao_Pedro/base.obj.meta
+Assets/Personagens/Passado/Joao_Pedro/shaded.png.meta
+Assets/Personagens/Passado/Joao_Pedro/texture_diffuse.png.meta
+Assets/Personagens/Passado/Joao_Pedro/texture_metallic.png.meta
+Assets/Personagens/Passado/Joao_Pedro/texture_normal.png.meta
+Assets/Personagens/Passado/Joao_Pedro/texture_pbr.png.meta
+Assets/Personagens/Passado/Joao_Pedro/texture_roughness.png.meta
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado.meta"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/base.obj.meta"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/eupassado.fbx.meta"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/shaded.png.meta"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_diffuse.png.meta"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_metallic.png.meta"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_normal.png.meta"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_pbr.png.meta"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_roughness.png.meta"
+Assets/Personagens/Passado/Prefeito_Daniel.meta
+Assets/Personagens/Passado/Prefeito_Daniel/base.obj.meta
+Assets/Personagens/Passado/Prefeito_Daniel/shaded.png.meta
+Assets/Personagens/Passado/Prefeito_Daniel/texture_diffuse.png.meta
+Assets/Personagens/Passado/Prefeito_Daniel/texture_metallic.png.meta
+Assets/Personagens/Passado/Prefeito_Daniel/texture_normal.png.meta
+Assets/Personagens/Passado/Prefeito_Daniel/texture_pbr.png.meta
+Assets/Personagens/Passado/Prefeito_Daniel/texture_roughness.png.meta
+Assets/Personagens/Passado/Reminho Passado.meta
+Assets/Personagens/Passado/Reminho Passado/base.obj.meta
+Assets/Personagens/Passado/Reminho Passado/reminho passado.fbx.meta
+Assets/Personagens/Passado/Reminho Passado/shaded.png.meta
+Assets/Personagens/Passado/Reminho Passado/texture_diffuse.png.meta
+Assets/Personagens/Passado/Reminho Passado/texture_metallic.png.meta
+Assets/Personagens/Passado/Reminho Passado/texture_normal.png.meta
+Assets/Personagens/Passado/Reminho Passado/texture_pbr.png.meta
+Assets/Personagens/Passado/Reminho Passado/texture_roughness.png.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/base.obj.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/shaded.png.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_diffuse.png.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_metallic.png.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_normal.png.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_pbr.png.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_roughness.png.meta
+Assets/Personagens/Passado/Richard/Richard@Pointing Forward.fbx.meta
+Assets/Personagens/Passado/vintage_female.meta
+Assets/Personagens/Passado/vintage_female/Walking.fbx.meta
+Assets/Personagens/Passado/vintage_female/base.obj.meta
+Assets/Personagens/Passado/vintage_female/shaded.png.meta
+Assets/Personagens/Passado/vintage_female/texture_diffuse.png.meta
+Assets/Personagens/Passado/vintage_female/texture_metallic.png.meta
+Assets/Personagens/Passado/vintage_female/texture_normal.png.meta
+Assets/Personagens/Passado/vintage_female/texture_pbr.png.meta
+Assets/Personagens/Passado/vintage_female/texture_roughness.png.meta
+Assets/Personagens/Passado/vintage_male.meta
+Assets/Personagens/Passado/vintage_male/Walking.fbx.meta
+Assets/Personagens/Passado/vintage_male/base.obj.meta
+Assets/Personagens/Passado/vintage_male/shaded.png.meta
+Assets/Personagens/Passado/vintage_male/texture_diffuse.png.meta
+Assets/Personagens/Passado/vintage_male/texture_metallic.png.meta
+Assets/Personagens/Passado/vintage_male/texture_normal.png.meta
+Assets/Personagens/Passado/vintage_male/texture_pbr.png.meta
+Assets/Personagens/Passado/vintage_male/texture_roughness.png.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/base.obj.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/shaded.png.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_diffuse.png.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_metallic.png.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_normal.png.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_pbr.png.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_roughness.png.meta
+Assets/Personagens/Presente/Carlos.meta
+Assets/Personagens/Presente/Carlos/base.obj.meta
+Assets/Personagens/Presente/Carlos/shaded.png.meta
+Assets/Personagens/Presente/Carlos/texture_diffuse.png.meta
+Assets/Personagens/Presente/Carlos/texture_metallic.png.meta
+Assets/Personagens/Presente/Carlos/texture_normal.png.meta
+Assets/Personagens/Presente/Carlos/texture_pbr.png.meta
+Assets/Personagens/Presente/Carlos/texture_roughness.png.meta
+"Assets/Personagens/Presente/C\303\251zar.meta"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d.meta"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/base.obj.meta"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/shaded.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_diffuse.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_metallic.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_normal.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_pbr.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_roughness.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d.meta"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/base.obj.meta"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/shaded.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_diffuse.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_metallic.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_normal.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_pbr.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_roughness.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/maleta.meta"
+"Assets/Personagens/Presente/C\303\251zar/maleta/base.obj.meta"
+"Assets/Personagens/Presente/C\303\251zar/maleta/shaded.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_diffuse.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_metallic.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_normal.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_pbr.png.meta"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_roughness.png.meta"
+Assets/Personagens/Presente/Felipe.meta
+Assets/Personagens/Presente/Felipe/Walking.fbx.meta
+Assets/Personagens/Presente/Felipe/base.obj.meta
+Assets/Personagens/Presente/Felipe/shaded.png.meta
+Assets/Personagens/Presente/Felipe/texture_diffuse.png.meta
+Assets/Personagens/Presente/Felipe/texture_metallic.png.meta
+Assets/Personagens/Presente/Felipe/texture_normal.png.meta
+Assets/Personagens/Presente/Felipe/texture_pbr.png.meta
+Assets/Personagens/Presente/Felipe/texture_roughness.png.meta
+"Assets/Personagens/Presente/Henriette Brigag\303\243o.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/base.obj.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/shaded.png.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_diffuse.png.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_metallic.png.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_normal.png.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_pbr.png.meta"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_roughness.png.meta"
+Assets/Personagens/Presente/Joao_Pedro.meta
+"Assets/Personagens/Presente/Joao_Pedro/Jo\303\243o Pedro.zip.meta"
+Assets/Personagens/Presente/Joao_Pedro/base.obj.meta
+Assets/Personagens/Presente/Joao_Pedro/shaded.png.meta
+Assets/Personagens/Presente/Joao_Pedro/texture_diffuse.png.meta
+Assets/Personagens/Presente/Joao_Pedro/texture_metallic.png.meta
+Assets/Personagens/Presente/Joao_Pedro/texture_normal.png.meta
+Assets/Personagens/Presente/Joao_Pedro/texture_pbr.png.meta
+Assets/Personagens/Presente/Joao_Pedro/texture_roughness.png.meta
+"Assets/Personagens/Presente/Jo\303\243o Vinicius.meta"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/base.obj.meta"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/eu.fbx.meta"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/shaded.png.meta"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_diffuse.png.meta"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_metallic.png.meta"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_normal.png.meta"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_pbr.png.meta"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_roughness.png.meta"
+Assets/Personagens/Presente/Prefeito Daniel.meta
+"Assets/Personagens/Presente/Prefeito Daniel/Prefeito Daniel (S\303\243o Tom\303\241s).zip.meta"
+Assets/Personagens/Presente/Prefeito_Daniel.meta
+Assets/Personagens/Presente/Prefito_Daniel.meta
+Assets/Personagens/Presente/Prefito_Daniel/base.obj.meta
+Assets/Personagens/Presente/Prefito_Daniel/shaded.png.meta
+Assets/Personagens/Presente/Prefito_Daniel/texture_diffuse.png.meta
+Assets/Personagens/Presente/Prefito_Daniel/texture_metallic.png.meta
+Assets/Personagens/Presente/Prefito_Daniel/texture_normal.png.meta
+Assets/Personagens/Presente/Prefito_Daniel/texture_pbr.png.meta
+Assets/Personagens/Presente/Prefito_Daniel/texture_roughness.png.meta
+Assets/Personagens/Presente/Reminho.meta
+Assets/Personagens/Presente/Reminho/Reminho.fbx.meta
+Assets/Personagens/Presente/Reminho/base.obj.meta
+Assets/Personagens/Presente/Reminho/shaded.png.meta
+Assets/Personagens/Presente/Reminho/texture_diffuse.png.meta
+Assets/Personagens/Presente/Reminho/texture_metallic.png.meta
+Assets/Personagens/Presente/Reminho/texture_normal.png.meta
+Assets/Personagens/Presente/Reminho/texture_pbr.png.meta
+Assets/Personagens/Presente/Reminho/texture_roughness.png.meta
+Assets/Personagens/Presente/Richard.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/base.obj.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/shaded.png.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_diffuse.png.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_metallic.png.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_normal.png.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_pbr.png.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_roughness.png.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE@Pointing Forward.fbx.meta
+Assets/Personagens/Presente/Samuel.meta
+Assets/Personagens/Presente/Samuel/Walking.fbx.meta
+Assets/Personagens/Presente/Samuel/base.obj.meta
+Assets/Personagens/Presente/Samuel/shaded.png.meta
+Assets/Personagens/Presente/Samuel/texture_diffuse.png.meta
+Assets/Personagens/Presente/Samuel/texture_metallic.png.meta
+Assets/Personagens/Presente/Samuel/texture_normal.png.meta
+Assets/Personagens/Presente/Samuel/texture_pbr.png.meta
+Assets/Personagens/Presente/Samuel/texture_roughness.png.meta
+Assets/Personagens/Presente/Vinicius_s.meta
+Assets/Personagens/Presente/Vinicius_s/Walking.fbx.meta
+Assets/Personagens/Presente/Vinicius_s/base.obj.meta
+Assets/Personagens/Presente/Vinicius_s/shaded.png.meta
+Assets/Personagens/Presente/Vinicius_s/texture_diffuse.png.meta
+Assets/Personagens/Presente/Vinicius_s/texture_metallic.png.meta
+Assets/Personagens/Presente/Vinicius_s/texture_normal.png.meta
+Assets/Personagens/Presente/Vinicius_s/texture_pbr.png.meta
+Assets/Personagens/Presente/Vinicius_s/texture_roughness.png.meta
+Assets/Scenes/SampleScene.unity
+ProjectSettings/SceneTemplateSettings.json
+
+Cézar Novaes
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/base.obj"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/shaded.png"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_diffuse.png"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_metallic.png"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_normal.png"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_pbr.png"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900/texture_roughness.png"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/base.obj"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/shaded.png"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_diffuse.png"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_metallic.png"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_normal.png"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_pbr.png"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900/texture_roughness.png"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/base.obj"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/shaded.png"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_diffuse.png"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_metallic.png"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_normal.png"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_pbr.png"
+"Assets/Personagens/Presente/C\303\251zar/cezar-3d/texture_roughness.png"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/base.obj"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/shaded.png"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_diffuse.png"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_metallic.png"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_normal.png"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_pbr.png"
+"Assets/Personagens/Presente/C\303\251zar/chico-lanches-3d/texture_roughness.png"
+"Assets/Personagens/Presente/C\303\251zar/maleta/base.obj"
+"Assets/Personagens/Presente/C\303\251zar/maleta/shaded.png"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_diffuse.png"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_metallic.png"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_normal.png"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_pbr.png"
+"Assets/Personagens/Presente/C\303\251zar/maleta/texture_roughness.png"
+
+Cézar Novaes
+"Assets/Cen\303\241rio/Passado/carro-antigo/base.obj"
+"Assets/Cen\303\241rio/Passado/carro-antigo/shaded.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/carro-antigo/texture_roughness.png"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/base.obj"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/shaded.png"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_diffuse.png"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_metallic.png"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_normal.png"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_pbr.png"
+"Assets/Cen\303\241rio/Passado/roda-carro-antigo/texture_roughness.png"
+"Assets/Cen\303\241rio/Presente/balao-onca/base.obj"
+"Assets/Cen\303\241rio/Presente/balao-onca/shaded.png"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/balao-onca/texture_roughness.png"
+"Assets/Cen\303\241rio/Presente/girocoptero/base.obj"
+"Assets/Cen\303\241rio/Presente/girocoptero/shaded.png"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_diffuse.png"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_metallic.png"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_normal.png"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_pbr.png"
+"Assets/Cen\303\241rio/Presente/girocoptero/texture_roughness.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/base.obj"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/shaded.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_diffuse.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_metallic.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_normal.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_pbr.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-generica/texture_roughness.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/base.obj"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/shaded.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_diffuse.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_metallic.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_normal.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_pbr.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-manga/texture_roughness.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/base.obj"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/shaded.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_diffuse.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_metallic.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_normal.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_pbr.png"
+"Assets/Cen\303\241rio/\303\201rvores/arvore-pitanga/texture_roughness.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/base.obj"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/shaded.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_diffuse.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_metallic.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_normal.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_pbr.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-amarelo/texture_roughness.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/base.obj"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/shaded.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_diffuse.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_metallic.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_normal.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_pbr.png"
+"Assets/Cen\303\241rio/\303\201rvores/ipe-rosa/texture_roughness.png"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900.fbx"
+"Assets/Personagens/Passado/C\303\251zar/cezar 1900.zip"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900.fbx"
+"Assets/Personagens/Passado/C\303\251zar/chico lanches 1900.zip"
+Assets/Personagens/Presente/Cezar/cezar-3d.zip
+Assets/Personagens/Presente/Cezar/chico-lanches-3d.zip
+
+joaaovinicius
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/base.obj"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/eupassado.fbx"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/shaded.png"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_diffuse.png"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_metallic.png"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_normal.png"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_pbr.png"
+"Assets/Personagens/Passado/Jo\303\243o Vinicius Passado/texture_roughness.png"
+Assets/Personagens/Passado/Reminho Passado/base.obj
+Assets/Personagens/Passado/Reminho Passado/reminho passado.fbx
+Assets/Personagens/Passado/Reminho Passado/shaded.png
+Assets/Personagens/Passado/Reminho Passado/texture_diffuse.png
+Assets/Personagens/Passado/Reminho Passado/texture_metallic.png
+Assets/Personagens/Passado/Reminho Passado/texture_normal.png
+Assets/Personagens/Passado/Reminho Passado/texture_pbr.png
+Assets/Personagens/Passado/Reminho Passado/texture_roughness.png
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/base.obj"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/eu.fbx"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/shaded.png"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_diffuse.png"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_metallic.png"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_normal.png"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_pbr.png"
+"Assets/Personagens/Presente/Jo\303\243o Vinicius/texture_roughness.png"
+Assets/Personagens/Presente/Reminho/Reminho.fbx
+Assets/Personagens/Presente/Reminho/base.obj
+Assets/Personagens/Presente/Reminho/shaded.png
+Assets/Personagens/Presente/Reminho/texture_diffuse.png
+Assets/Personagens/Presente/Reminho/texture_metallic.png
+Assets/Personagens/Presente/Reminho/texture_normal.png
+Assets/Personagens/Presente/Reminho/texture_pbr.png
+Assets/Personagens/Presente/Reminho/texture_roughness.png
+
+joao12pedro
+Assets/Personagens/Passado/Prefeito_Daniel/base.obj
+Assets/Personagens/Passado/Prefeito_Daniel/shaded.png
+Assets/Personagens/Passado/Prefeito_Daniel/texture_diffuse.png
+Assets/Personagens/Passado/Prefeito_Daniel/texture_metallic.png
+Assets/Personagens/Passado/Prefeito_Daniel/texture_normal.png
+Assets/Personagens/Passado/Prefeito_Daniel/texture_pbr.png
+Assets/Personagens/Passado/Prefeito_Daniel/texture_roughness.png
+
+joao12pedro
+Assets/Personagens/Passado/Prefeito_Daniel/.txt
+
+joao12pedro
+Assets/Personagens/Presente/Prefito_Daniel/base.obj
+Assets/Personagens/Presente/Prefito_Daniel/shaded.png
+Assets/Personagens/Presente/Prefito_Daniel/texture_diffuse.png
+Assets/Personagens/Presente/Prefito_Daniel/texture_metallic.png
+Assets/Personagens/Presente/Prefito_Daniel/texture_normal.png
+Assets/Personagens/Presente/Prefito_Daniel/texture_pbr.png
+Assets/Personagens/Presente/Prefito_Daniel/texture_roughness.png
+
+joao12pedro
+Assets/Personagens/Passado/Joao_Pedro/base.obj
+Assets/Personagens/Passado/Joao_Pedro/shaded.png
+Assets/Personagens/Passado/Joao_Pedro/texture_diffuse.png
+Assets/Personagens/Passado/Joao_Pedro/texture_metallic.png
+Assets/Personagens/Passado/Joao_Pedro/texture_normal.png
+Assets/Personagens/Passado/Joao_Pedro/texture_pbr.png
+Assets/Personagens/Passado/Joao_Pedro/texture_roughness.png
+
+joao12pedro
+"Assets/Personagens/Passado/Joao_Pedro/Jo\303\243o Pedro (Old).zip"
+
+joao12pedro
+Assets/Personagens/Passado/Joao_Pedro/.txt
+
+SamuelASilva
+joao12pedro
+Assets/Personagens/Presente/Prefito_Daniel/.txt
+
+joao12pedro
+Assets/Personagens/Presente/Prefeito_Daniel
+
+Bruno Aguiar
+Assets/Personagens/Passado/BrunoAguiar.meta
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/base.obj
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/shaded.png
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_diffuse.png
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_metallic.png
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_normal.png
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_pbr.png
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO/texture_roughness.png
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO@Thoughtful Head Shake.fbx
+Assets/Personagens/Passado/BrunoAguiar/EU 3D PASSADO@Thoughtful Head Shake.fbx.meta
+Assets/Personagens/Passado/Richard.meta
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/base.obj
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/shaded.png
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_diffuse.png
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_metallic.png
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_normal.png
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_pbr.png
+Assets/Personagens/Passado/Richard/RICHARD PASSADO/texture_roughness.png
+Assets/Personagens/Passado/Richard/Richard@Pointing Forward.fbx
+Assets/Personagens/Presente/BrunoAguiar.meta
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/base.obj
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/shaded.png
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_diffuse.png
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_metallic.png
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_normal.png
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_pbr.png
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE/texture_roughness.png
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE@Dancing Twerk.fbx
+Assets/Personagens/Presente/BrunoAguiar/EU 3D PRESENTE@Dancing Twerk.fbx.meta
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/base.obj
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/shaded.png
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_diffuse.png
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_metallic.png
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_normal.png
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_pbr.png
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE/texture_roughness.png
+Assets/Personagens/Presente/Richard/RICHARD PRESENTE@Pointing Forward.fbx
+
+SamuelASilva
+SamuelASilva
+Assets/Personagens/Presente/Samuel/Walking.fbx
+Assets/Personagens/Presente/Samuel/base.obj
+Assets/Personagens/Presente/Samuel/shaded.png
+Assets/Personagens/Presente/Samuel/texture_diffuse.png
+Assets/Personagens/Presente/Samuel/texture_metallic.png
+Assets/Personagens/Presente/Samuel/texture_normal.png
+Assets/Personagens/Presente/Samuel/texture_pbr.png
+Assets/Personagens/Presente/Samuel/texture_roughness.png
+
+joao12pedro
+"Assets/Personagens/Presente/Prefeito Daniel/Prefeito Daniel (S\303\243o Tom\303\241s).zip"
+
+Felipe
+joao12pedro
+Assets/Personagens/Presente/Prefeito Daniel/.txt
+
+joao12pedro
+Assets/Personagens/Presente/Joao_Pedro/base.obj
+Assets/Personagens/Presente/Joao_Pedro/shaded.png
+Assets/Personagens/Presente/Joao_Pedro/texture_diffuse.png
+Assets/Personagens/Presente/Joao_Pedro/texture_metallic.png
+Assets/Personagens/Presente/Joao_Pedro/texture_normal.png
+Assets/Personagens/Presente/Joao_Pedro/texture_pbr.png
+Assets/Personagens/Presente/Joao_Pedro/texture_roughness.png
+
+Felipe
+joao12pedro
+"Assets/Personagens/Presente/Joao_Pedro/Jo\303\243o Pedro.zip"
+
+Felipe
+Assets/Personagens/Passado/vintage_female/Walking.fbx
+Assets/Personagens/Passado/vintage_female/base.obj
+Assets/Personagens/Passado/vintage_female/shaded.png
+Assets/Personagens/Passado/vintage_female/texture_diffuse.png
+Assets/Personagens/Passado/vintage_female/texture_metallic.png
+Assets/Personagens/Passado/vintage_female/texture_normal.png
+Assets/Personagens/Passado/vintage_female/texture_pbr.png
+Assets/Personagens/Passado/vintage_female/texture_roughness.png
+Assets/Personagens/Passado/vintage_male/Walking.fbx
+Assets/Personagens/Passado/vintage_male/base.obj
+Assets/Personagens/Passado/vintage_male/shaded.png
+Assets/Personagens/Passado/vintage_male/texture_diffuse.png
+Assets/Personagens/Passado/vintage_male/texture_metallic.png
+Assets/Personagens/Passado/vintage_male/texture_normal.png
+Assets/Personagens/Passado/vintage_male/texture_pbr.png
+Assets/Personagens/Passado/vintage_male/texture_roughness.png
+Assets/Personagens/Presente/Felipe/Walking.fbx
+Assets/Personagens/Presente/Felipe/base.obj
+Assets/Personagens/Presente/Felipe/shaded.png
+Assets/Personagens/Presente/Felipe/texture_diffuse.png
+Assets/Personagens/Presente/Felipe/texture_metallic.png
+Assets/Personagens/Presente/Felipe/texture_normal.png
+Assets/Personagens/Presente/Felipe/texture_pbr.png
+Assets/Personagens/Presente/Felipe/texture_roughness.png
+Assets/Personagens/Presente/Vinicius_s/Walking.fbx
+Assets/Personagens/Presente/Vinicius_s/base.obj
+Assets/Personagens/Presente/Vinicius_s/shaded.png
+Assets/Personagens/Presente/Vinicius_s/texture_diffuse.png
+Assets/Personagens/Presente/Vinicius_s/texture_metallic.png
+Assets/Personagens/Presente/Vinicius_s/texture_normal.png
+Assets/Personagens/Presente/Vinicius_s/texture_pbr.png
+Assets/Personagens/Presente/Vinicius_s/texture_roughness.png
+
+joao12pedro
+Assets/Personagens/Presente/Joao_Pedro/.txt
+
+Carlos Neto
+Assets/Personagens/Presente/Carlos/base.obj
+Assets/Personagens/Presente/Carlos/shaded.png
+Assets/Personagens/Presente/Carlos/texture_diffuse.png
+Assets/Personagens/Presente/Carlos/texture_metallic.png
+Assets/Personagens/Presente/Carlos/texture_normal.png
+Assets/Personagens/Presente/Carlos/texture_pbr.png
+Assets/Personagens/Presente/Carlos/texture_roughness.png
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/base.obj"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/shaded.png"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_diffuse.png"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_metallic.png"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_normal.png"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_pbr.png"
+"Assets/Personagens/Presente/Henriette Brigag\303\243o/texture_roughness.png"
+
+Ely Prado
+Assets/Personagens/Passado/Ely/elyold.obj
+Assets/Personagens/Passado/Ely/shaded.png
+Assets/Personagens/Passado/Ely/texture_diffuse.png
+Assets/Personagens/Passado/Ely/texture_metallic.png
+Assets/Personagens/Passado/Ely/texture_normal.png
+Assets/Personagens/Passado/Ely/texture_pbr.png
+Assets/Personagens/Passado/Ely/texture_roughness.png
+
+Ely Prado
+Assets/Personagens.meta
+Assets/Personagens/Passado.meta
+Assets/Personagens/Passado/MariaEngomada.meta
+Assets/Personagens/Passado/MariaEngomada/Materials.meta
+Assets/Personagens/Passado/MariaEngomada/Materials/shaded.mat
+Assets/Personagens/Passado/MariaEngomada/Materials/shaded.mat.meta
+Assets/Personagens/Passado/MariaEngomada/mariaengomada.obj
+Assets/Personagens/Passado/MariaEngomada/mariaengomada.obj.meta
+Assets/Personagens/Passado/MariaEngomada/shaded.png
+Assets/Personagens/Passado/MariaEngomada/shaded.png.meta
+Assets/Personagens/Passado/MariaEngomada/texture_diffuse.png
+Assets/Personagens/Passado/MariaEngomada/texture_diffuse.png.meta
+Assets/Personagens/Passado/MariaEngomada/texture_metallic.png
+Assets/Personagens/Passado/MariaEngomada/texture_metallic.png.meta
+Assets/Personagens/Passado/MariaEngomada/texture_normal.png
+Assets/Personagens/Passado/MariaEngomada/texture_normal.png.meta
+Assets/Personagens/Passado/MariaEngomada/texture_pbr.png
+Assets/Personagens/Passado/MariaEngomada/texture_pbr.png.meta
+Assets/Personagens/Passado/MariaEngomada/texture_roughness.png
+Assets/Personagens/Passado/MariaEngomada/texture_roughness.png.meta
+Assets/Personagens/Presente.meta
+Assets/Personagens/Presente/Ely.meta
+Assets/Personagens/Presente/Ely/Materials.meta
+Assets/Personagens/Presente/Ely/Materials/shaded.mat
+Assets/Personagens/Presente/Ely/Materials/shaded.mat.meta
+Assets/Personagens/Presente/Ely/ely.obj
+Assets/Personagens/Presente/Ely/ely.obj.meta
+Assets/Personagens/Presente/Ely/ely@Standard Walk.fbx
+Assets/Personagens/Presente/Ely/ely@Standard Walk.fbx.meta
+Assets/Personagens/Presente/Ely/shaded.png
+Assets/Personagens/Presente/Ely/shaded.png.meta
+Assets/Personagens/Presente/Ely/texture_diffuse.png
+Assets/Personagens/Presente/Ely/texture_diffuse.png.meta
+Assets/Personagens/Presente/Ely/texture_metallic.png
+Assets/Personagens/Presente/Ely/texture_metallic.png.meta
+Assets/Personagens/Presente/Ely/texture_normal.png
+Assets/Personagens/Presente/Ely/texture_normal.png.meta
+Assets/Personagens/Presente/Ely/texture_pbr.png
+Assets/Personagens/Presente/Ely/texture_pbr.png.meta
+Assets/Personagens/Presente/Ely/texture_roughness.png
+Assets/Personagens/Presente/Ely/texture_roughness.png.meta
+
+Ely Prado
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+Assets/Scenes.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleScene.unity.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/XRSettings.asset
+
+Ely Prado
+.gitignore
+LICENSE
+README.md
